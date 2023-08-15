@@ -1,0 +1,44 @@
+posts
+
+id: stirng
+title: string
+content: string
+author(userId): string
+tags(ids): string[]
+created_at: string
+updated_at: string
+publish_status: string
+status: string
+created_by: string
+updated_by: string
+view_count: number
+
+
+
+tags
+
+id: string
+name: string
+created_at: string
+updated_at: string
+
+
+
+
+users
+
+id: string
+username: string
+firstName: string
+lastName: string
+email: string
+password: string
+status: string
+created_at: string
+updated_at: string
+
+Subscribers
+
+id: string
+email: string
+created_at: string
